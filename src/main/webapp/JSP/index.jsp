@@ -9,6 +9,7 @@
 <body>
 <h1>Bienvenidos al mundo del JSP</h1>
 <h1>Hola mundo</h1>
+<h1>PRUEBA GIT LOGRADA</h1>
 <h2>TABLA DE 4 FILAS Y 3 COLUMNAS</h2>
 <table border="2" width="300">
 <tr>
@@ -44,8 +45,7 @@ maxlength="25" />
 <br />
 Opine sobre mi p&aacute;gina:
 <br />
-<textarea name="opinion" id="opinion" cols="50" rows="5"
-wrap="virtual">
+<textarea name="opinion" id="opinion" cols="50" rows="5" wrap="virtual">
 </textarea>
 <br />
 <input type="submit" id="botonAceptar" name="botonAceptar"
